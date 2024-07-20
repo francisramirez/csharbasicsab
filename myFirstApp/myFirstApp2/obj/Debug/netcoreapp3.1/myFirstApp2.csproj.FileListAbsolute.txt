@@ -1,0 +1,13 @@
+D:\pjrs\cchaprbasico\myFirstApp\myFirstApp2\bin\Debug\netcoreapp3.1\myFirstApp2.exe
+D:\pjrs\cchaprbasico\myFirstApp\myFirstApp2\bin\Debug\netcoreapp3.1\myFirstApp2.deps.json
+D:\pjrs\cchaprbasico\myFirstApp\myFirstApp2\bin\Debug\netcoreapp3.1\myFirstApp2.runtimeconfig.json
+D:\pjrs\cchaprbasico\myFirstApp\myFirstApp2\bin\Debug\netcoreapp3.1\myFirstApp2.runtimeconfig.dev.json
+D:\pjrs\cchaprbasico\myFirstApp\myFirstApp2\bin\Debug\netcoreapp3.1\myFirstApp2.dll
+D:\pjrs\cchaprbasico\myFirstApp\myFirstApp2\bin\Debug\netcoreapp3.1\myFirstApp2.pdb
+D:\pjrs\cchaprbasico\myFirstApp\myFirstApp2\obj\Debug\netcoreapp3.1\myFirstApp2.GeneratedMSBuildEditorConfig.editorconfig
+D:\pjrs\cchaprbasico\myFirstApp\myFirstApp2\obj\Debug\netcoreapp3.1\myFirstApp2.AssemblyInfoInputs.cache
+D:\pjrs\cchaprbasico\myFirstApp\myFirstApp2\obj\Debug\netcoreapp3.1\myFirstApp2.AssemblyInfo.cs
+D:\pjrs\cchaprbasico\myFirstApp\myFirstApp2\obj\Debug\netcoreapp3.1\myFirstApp2.csproj.CoreCompileInputs.cache
+D:\pjrs\cchaprbasico\myFirstApp\myFirstApp2\obj\Debug\netcoreapp3.1\myFirstApp2.dll
+D:\pjrs\cchaprbasico\myFirstApp\myFirstApp2\obj\Debug\netcoreapp3.1\myFirstApp2.pdb
+D:\pjrs\cchaprbasico\myFirstApp\myFirstApp2\obj\Debug\netcoreapp3.1\myFirstApp2.genruntimeconfig.cache

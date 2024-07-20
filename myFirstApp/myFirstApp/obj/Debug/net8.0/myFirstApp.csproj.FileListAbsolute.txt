@@ -1,0 +1,14 @@
+D:\pjrs\cchaprbasico\myFirstApp\myFirstApp\bin\Debug\net8.0\myFirstApp.exe
+D:\pjrs\cchaprbasico\myFirstApp\myFirstApp\bin\Debug\net8.0\myFirstApp.deps.json
+D:\pjrs\cchaprbasico\myFirstApp\myFirstApp\bin\Debug\net8.0\myFirstApp.runtimeconfig.json
+D:\pjrs\cchaprbasico\myFirstApp\myFirstApp\bin\Debug\net8.0\myFirstApp.dll
+D:\pjrs\cchaprbasico\myFirstApp\myFirstApp\bin\Debug\net8.0\myFirstApp.pdb
+D:\pjrs\cchaprbasico\myFirstApp\myFirstApp\obj\Debug\net8.0\myFirstApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\pjrs\cchaprbasico\myFirstApp\myFirstApp\obj\Debug\net8.0\myFirstApp.AssemblyInfoInputs.cache
+D:\pjrs\cchaprbasico\myFirstApp\myFirstApp\obj\Debug\net8.0\myFirstApp.AssemblyInfo.cs
+D:\pjrs\cchaprbasico\myFirstApp\myFirstApp\obj\Debug\net8.0\myFirstApp.csproj.CoreCompileInputs.cache
+D:\pjrs\cchaprbasico\myFirstApp\myFirstApp\obj\Debug\net8.0\myFirstApp.dll
+D:\pjrs\cchaprbasico\myFirstApp\myFirstApp\obj\Debug\net8.0\refint\myFirstApp.dll
+D:\pjrs\cchaprbasico\myFirstApp\myFirstApp\obj\Debug\net8.0\myFirstApp.pdb
+D:\pjrs\cchaprbasico\myFirstApp\myFirstApp\obj\Debug\net8.0\myFirstApp.genruntimeconfig.cache
+D:\pjrs\cchaprbasico\myFirstApp\myFirstApp\obj\Debug\net8.0\ref\myFirstApp.dll
