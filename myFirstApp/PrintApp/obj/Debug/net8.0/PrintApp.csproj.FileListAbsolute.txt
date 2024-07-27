@@ -1,0 +1,12 @@
+D:\pjrs\cchaprbasico\myFirstApp\PrintApp\bin\Debug\net8.0\PrintApp.deps.json
+D:\pjrs\cchaprbasico\myFirstApp\PrintApp\bin\Debug\net8.0\PrintApp.dll
+D:\pjrs\cchaprbasico\myFirstApp\PrintApp\bin\Debug\net8.0\PrintApp.pdb
+D:\pjrs\cchaprbasico\myFirstApp\PrintApp\obj\Debug\net8.0\PrintApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\pjrs\cchaprbasico\myFirstApp\PrintApp\obj\Debug\net8.0\PrintApp.AssemblyInfoInputs.cache
+D:\pjrs\cchaprbasico\myFirstApp\PrintApp\obj\Debug\net8.0\PrintApp.AssemblyInfo.cs
+D:\pjrs\cchaprbasico\myFirstApp\PrintApp\obj\Debug\net8.0\PrintApp.csproj.CoreCompileInputs.cache
+D:\pjrs\cchaprbasico\myFirstApp\PrintApp\obj\Debug\net8.0\PrintApp.sourcelink.json
+D:\pjrs\cchaprbasico\myFirstApp\PrintApp\obj\Debug\net8.0\PrintApp.dll
+D:\pjrs\cchaprbasico\myFirstApp\PrintApp\obj\Debug\net8.0\refint\PrintApp.dll
+D:\pjrs\cchaprbasico\myFirstApp\PrintApp\obj\Debug\net8.0\PrintApp.pdb
+D:\pjrs\cchaprbasico\myFirstApp\PrintApp\obj\Debug\net8.0\ref\PrintApp.dll

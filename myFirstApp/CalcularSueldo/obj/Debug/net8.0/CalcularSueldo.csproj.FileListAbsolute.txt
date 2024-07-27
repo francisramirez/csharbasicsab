@@ -1,0 +1,15 @@
+D:\pjrs\cchaprbasico\myFirstApp\CalcularSueldo\obj\Debug\net8.0\CalcularSueldo.GeneratedMSBuildEditorConfig.editorconfig
+D:\pjrs\cchaprbasico\myFirstApp\CalcularSueldo\obj\Debug\net8.0\CalcularSueldo.AssemblyInfoInputs.cache
+D:\pjrs\cchaprbasico\myFirstApp\CalcularSueldo\obj\Debug\net8.0\CalcularSueldo.AssemblyInfo.cs
+D:\pjrs\cchaprbasico\myFirstApp\CalcularSueldo\obj\Debug\net8.0\CalcularSueldo.csproj.CoreCompileInputs.cache
+D:\pjrs\cchaprbasico\myFirstApp\CalcularSueldo\obj\Debug\net8.0\CalcularSueldo.sourcelink.json
+D:\pjrs\cchaprbasico\myFirstApp\CalcularSueldo\bin\Debug\net8.0\CalcularSueldo.exe
+D:\pjrs\cchaprbasico\myFirstApp\CalcularSueldo\bin\Debug\net8.0\CalcularSueldo.deps.json
+D:\pjrs\cchaprbasico\myFirstApp\CalcularSueldo\bin\Debug\net8.0\CalcularSueldo.runtimeconfig.json
+D:\pjrs\cchaprbasico\myFirstApp\CalcularSueldo\bin\Debug\net8.0\CalcularSueldo.dll
+D:\pjrs\cchaprbasico\myFirstApp\CalcularSueldo\bin\Debug\net8.0\CalcularSueldo.pdb
+D:\pjrs\cchaprbasico\myFirstApp\CalcularSueldo\obj\Debug\net8.0\CalcularSueldo.dll
+D:\pjrs\cchaprbasico\myFirstApp\CalcularSueldo\obj\Debug\net8.0\refint\CalcularSueldo.dll
+D:\pjrs\cchaprbasico\myFirstApp\CalcularSueldo\obj\Debug\net8.0\CalcularSueldo.pdb
+D:\pjrs\cchaprbasico\myFirstApp\CalcularSueldo\obj\Debug\net8.0\CalcularSueldo.genruntimeconfig.cache
+D:\pjrs\cchaprbasico\myFirstApp\CalcularSueldo\obj\Debug\net8.0\ref\CalcularSueldo.dll

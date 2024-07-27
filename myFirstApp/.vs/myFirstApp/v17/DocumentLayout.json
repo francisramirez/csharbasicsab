@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "D:\\pjrs\\cchaprbasico\\myFirstApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7F535757-86AF-47EA-B662-59C75CB1B2DC}|myFirstApp\\myFirstApp.csproj|d:\\pjrs\\cchaprbasico\\myfirstapp\\myfirstapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F535757-86AF-47EA-B662-59C75CB1B2DC}|myFirstApp\\myFirstApp.csproj|solutionrelative:myfirstapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DD6388FA-8CAD-4B25-89CA-2014E5A27BBF}|CalcularSueldo\\CalcularSueldo.csproj|d:\\pjrs\\cchaprbasico\\myfirstapp\\calcularsueldo\\superfice\\calcularsuperficie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD6388FA-8CAD-4B25-89CA-2014E5A27BBF}|CalcularSueldo\\CalcularSueldo.csproj|solutionrelative:calcularsueldo\\superfice\\calcularsuperficie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6388FA-8CAD-4B25-89CA-2014E5A27BBF}|CalcularSueldo\\CalcularSueldo.csproj|d:\\pjrs\\cchaprbasico\\myfirstapp\\calcularsueldo\\productoysuma\\calcularproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD6388FA-8CAD-4B25-89CA-2014E5A27BBF}|CalcularSueldo\\CalcularSueldo.csproj|solutionrelative:calcularsueldo\\productoysuma\\calcularproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6388FA-8CAD-4B25-89CA-2014E5A27BBF}|CalcularSueldo\\CalcularSueldo.csproj|d:\\pjrs\\cchaprbasico\\myfirstapp\\calcularsueldo\\calcular\\calcularsueldooperario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD6388FA-8CAD-4B25-89CA-2014E5A27BBF}|CalcularSueldo\\CalcularSueldo.csproj|solutionrelative:calcularsueldo\\calcular\\calcularsueldooperario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 355,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -31,6 +39,45 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalcularSuperficie.cs",
+              "DocumentMoniker": "D:\\pjrs\\cchaprbasico\\myFirstApp\\CalcularSueldo\\Superfice\\CalcularSuperficie.cs",
+              "RelativeDocumentMoniker": "CalcularSueldo\\Superfice\\CalcularSuperficie.cs",
+              "ToolTip": "D:\\pjrs\\cchaprbasico\\myFirstApp\\CalcularSueldo\\Superfice\\CalcularSuperficie.cs",
+              "RelativeToolTip": "CalcularSueldo\\Superfice\\CalcularSuperficie.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T19:54:30.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalcularProducto.cs",
+              "DocumentMoniker": "D:\\pjrs\\cchaprbasico\\myFirstApp\\CalcularSueldo\\ProductoYSuma\\CalcularProducto.cs",
+              "RelativeDocumentMoniker": "CalcularSueldo\\ProductoYSuma\\CalcularProducto.cs",
+              "ToolTip": "D:\\pjrs\\cchaprbasico\\myFirstApp\\CalcularSueldo\\ProductoYSuma\\CalcularProducto.cs",
+              "RelativeToolTip": "CalcularSueldo\\ProductoYSuma\\CalcularProducto.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAgwDwAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T20:01:57.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalcularSueldoOperario.cs",
+              "DocumentMoniker": "D:\\pjrs\\cchaprbasico\\myFirstApp\\CalcularSueldo\\Calcular\\CalcularSueldoOperario.cs",
+              "RelativeDocumentMoniker": "CalcularSueldo\\Calcular\\CalcularSueldoOperario.cs",
+              "ToolTip": "D:\\pjrs\\cchaprbasico\\myFirstApp\\CalcularSueldo\\Calcular\\CalcularSueldoOperario.cs",
+              "RelativeToolTip": "CalcularSueldo\\Calcular\\CalcularSueldoOperario.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwCMAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T19:52:36.207Z",
+              "EditorCaption": ""
             }
           ]
         },
@@ -45,25 +92,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 1142,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\pjrs\\cchaprbasico\\myFirstApp\\myFirstApp\\Program.cs",
-              "RelativeDocumentMoniker": "myFirstApp\\Program.cs",
-              "ToolTip": "D:\\pjrs\\cchaprbasico\\myFirstApp\\myFirstApp\\Program.cs",
-              "RelativeToolTip": "myFirstApp\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-20T20:24:48.862Z",
-              "EditorCaption": ""
             }
           ]
         }
